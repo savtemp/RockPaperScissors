@@ -1,0 +1,15 @@
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.deps.json
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.runtimeconfig.json
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.dll
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.pdb
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.csproj.AssemblyReference.cache
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.AssemblyInfo.cs
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.dll
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/refint/RockPaperScissors.dll
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.pdb
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.genruntimeconfig.cache
+/Users/savannahtemple/source/codeworks/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/ref/RockPaperScissors.dll
